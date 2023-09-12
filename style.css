@@ -11,4 +11,6 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,75,1) 50%,
 
 div {
     background-color:#cccccc;
+    font-size: 35px;
+    text-align: center;
 }
